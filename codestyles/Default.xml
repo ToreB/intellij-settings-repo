@@ -1,0 +1,31 @@
+<code_scheme name="Default" version="173">
+  <option name="GENERATE_FINAL_LOCALS" value="true" />
+  <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <CsvCodeStyleSettings>
+    <option name="SPACE_BEFORE_SEPARATOR" value="true" />
+    <option name="SPACE_AFTER_SEPARATOR" value="true" />
+    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
+    <option name="SEPARATOR_INDEX" value="1" />
+  </CsvCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="TERNARY_OPERATION_WRAP" value="5" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
+  </codeStyleSettings>
+</code_scheme>

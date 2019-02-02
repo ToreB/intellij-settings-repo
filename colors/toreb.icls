@@ -1,0 +1,44 @@
+<scheme name="toreb" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-12-16T10:49:21</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.1.0.0</property>
+    <property name="modified">2018-12-16T11:30:06</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="2b2b2b" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+      </value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="299999" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cc666e" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="abc023" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5394ec" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

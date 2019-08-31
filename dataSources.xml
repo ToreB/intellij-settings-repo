@@ -8,6 +8,7 @@
       <driver-properties>
         <property name="enable_load_extension" value="true" />
       </driver-properties>
+      <auto-close enable="true" />
     </data-source>
   </component>
 </application>

@@ -1,8 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <envs>
-      <env key="PROJECT_DIR" value="$PROJECT_DIR$" />
-    </envs>
     <option name="myShellPath" value="&quot;P:\dev\cygwin64\bin\bash.exe&quot; --login -i" />
   </component>
 </application>

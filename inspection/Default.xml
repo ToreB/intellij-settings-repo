@@ -31,7 +31,15 @@
   <inspection_tool class="MissortedModifiers" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_requireAnnotationsFirst" value="false" />
   </inspection_tool>
+  <inspection_tool class="NonFinalUtilityClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RawUseOfParameterizedType" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UtilityClassWithPublicConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UtilityClassWithoutPrivateConstructor" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignorableAnnotations">
+      <value />
+    </option>
+    <option name="ignoreClassesWithOnlyMain" value="false" />
+  </inspection_tool>
   <inspection_tool class="WeakerAccess" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="true" />
     <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />

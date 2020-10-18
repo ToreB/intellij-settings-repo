@@ -1,12 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
-  <CsvCodeStyleSettings>
-    <option name="SPACE_BEFORE_SEPARATOR" value="true" />
-    <option name="SPACE_AFTER_SEPARATOR" value="true" />
-    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
-    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
-  </CsvCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />

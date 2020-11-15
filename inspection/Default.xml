@@ -18,6 +18,16 @@
   <inspection_tool class="EqualsCalledOnEnumConstant" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrPackage" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="GroovyVariableCanBeFinal" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="layout:fragment" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
   <inspection_tool class="LiteralAsArgToStringEquals" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LocalCanBeFinal" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="REPORT_VARIABLES" value="true" />
@@ -47,4 +57,5 @@
     <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
     <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
   </inspection_tool>
+  <inspection_tool class="XmlUnusedNamespaceDeclaration" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </profile>

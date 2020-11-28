@@ -4,8 +4,10 @@
       <mapping ext="tpl" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="run-auto-transpile" type="Shell Script" />
       <mapping pattern="run" type="Shell Script" />
       <removed_mapping ext="tpl" approved="true" type="GSP" />
+      <removed_mapping pattern="run-auto-transpile" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

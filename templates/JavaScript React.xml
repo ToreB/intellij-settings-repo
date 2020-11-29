@@ -1,0 +1,7 @@
+<templateSet group="JavaScript React">
+  <template name="ir" value="import React from 'react';" description="Import React" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

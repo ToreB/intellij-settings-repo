@@ -21,22 +21,6 @@
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
-    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
-      <value>
-        <package name="java.util" alias="false" withSubpackages="false" />
-        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
-        <package name="io.ktor" alias="false" withSubpackages="true" />
-      </value>
-    </option>
-    <option name="PACKAGES_IMPORT_LAYOUT">
-      <value>
-        <package name="" alias="false" withSubpackages="true" />
-        <package name="java" alias="false" withSubpackages="true" />
-        <package name="javax" alias="false" withSubpackages="true" />
-        <package name="kotlin" alias="false" withSubpackages="true" />
-        <package name="" alias="true" withSubpackages="true" />
-      </value>
-    </option>
     <option name="CONTINUATION_INDENT_IN_PARAMETER_LISTS" value="true" />
     <option name="CONTINUATION_INDENT_IN_ARGUMENT_LISTS" value="true" />
     <option name="CONTINUATION_INDENT_FOR_EXPRESSION_BODIES" value="true" />
@@ -50,6 +34,10 @@
   </JetCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="SOFT_MARGINS" value="120" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />

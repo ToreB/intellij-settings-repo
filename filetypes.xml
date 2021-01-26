@@ -14,6 +14,7 @@
       <removed_mapping ext="tpl" approved="true" type="GSP" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern="HomePage.js" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="run-auto-transpile" approved="true" type="PLAIN_TEXT" />
     </extensionMap>

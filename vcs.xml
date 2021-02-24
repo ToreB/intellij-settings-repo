@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/ckan/ckan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vegvesen/ckanext-dcat_ap_no.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ToreB\Code" />
